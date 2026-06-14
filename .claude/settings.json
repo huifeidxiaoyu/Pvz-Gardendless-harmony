@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/Users/34182/.claude/skills/skill-harmonyos-docs-main/api/**)",
+      "Read(//c/Users/34182/.claude/skills/skill-harmonyos-docs-main/guides/**)"
+    ]
+  }
+}
